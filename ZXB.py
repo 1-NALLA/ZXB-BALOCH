@@ -1,2 +1,2 @@
-from  ZXB import iAmMenu
-iAmMenu()
+from  ZXB import iAmMain
+iAmMain()
